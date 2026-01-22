@@ -89,8 +89,7 @@ This portfolio is deployed to GitHub Pages. To deploy your own:
 Feel free to reach out to me:
 
 - **GitHub**: [eshwar-21](https://github.com/eshwar-21)
-- **Email**: (Add your email)
-- **LinkedIn**: (Add your LinkedIn profile)
+- **Email**: eeshu155@gmail.com
 
 ## License
 
